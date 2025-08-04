@@ -1,5 +1,5 @@
 
-# Weapon Detection System
+# Crime Detection System
 
 This project uses a pretrained model to detect weapons in real-time using object detection techniques. The system captures video from your local camera feed and processes each frame to identify weapons. It can be used for real-time surveillance and security applications.
 
